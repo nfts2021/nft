@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x75803096Cdc685F76CFB8d41d01a72fFE5605428",
+  "SCAN_LINK": "https://polygonscan.com/token/0x75803096Cdc685F76CFB8d41d01a72fFE5605428",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "MUTANTPUNK",
+  "SYMBOL": "MP",
+  "MAX_SUPPLY": 9343,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mutantpunk-1",
+  "SHOW_BACKGROUND": true
+}
